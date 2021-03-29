@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Numbers Subtracting</string>
+    <string name="tables">Tables</string>
+    <string name="pratice">Pratice</string>
+    <string name="Test">Test</string>
+    <string name="Rate">Rate us ?</string>
+    <string name="TABLES">TABLES</string>
+    <string name="PRATICE">PRATICE</string>
+    <string name="TEST">TEST</string>
+
+</resources>

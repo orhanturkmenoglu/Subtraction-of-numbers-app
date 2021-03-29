@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sayılar Çıkarma</string>
+    <string name="tables">Tablolar</string>
+    <string name="pratice">Öğrenme</string>
+    <string name="Test">Test</string>
+    <string name="Rate">Bize oy verin ?</string>
+    <string name="TABLES">TABLOLAR</string>
+    <string name="PRATICE">ÖĞRENME</string>
+    <string name="TEST">TEST</string>
+
+</resources>
